@@ -1,0 +1,17 @@
+.skills{
+    width: 100%;
+    background: #ffffff52;
+    border-radius: 10px;
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 30px;
+    align-items: center;
+}
+.skills p{
+    color: #80007f;
+    margin-bottom: 0;
+    font-size: 18px;
+    margin-top: 10px;
+    font-weight: bold;
+}
